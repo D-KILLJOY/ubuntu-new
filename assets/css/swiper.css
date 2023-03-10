@@ -1,0 +1,19 @@
+/* ! SWIPER  */
+.swiper {
+	width: 100%;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+.swiper-slide {
+	background-position: center;
+	background-size: cover;
+}
+
+.gallery .swiper-slide img {
+	height: 100%;
+	object-fit: cover;
+	object-position: center;
+}
+
+/* ! SWIPER  */
