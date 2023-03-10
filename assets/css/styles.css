@@ -53,6 +53,10 @@ a {
 	text-decoration: none;
 }
 
+.hero {
+	max-height: 60rem;
+}
+
 /* ! REUSEABLE-CLASSES  */
 .container {
 	max-width: 130rem;
@@ -662,7 +666,6 @@ footer {
 
 	.list-item {
 		font-size: 1.7rem;
-
 		width: 16rem;
 		margin: 2.5rem 0;
 	}
